@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SN="213231" License="1" Version="2.0.2">
+  <Events>
+    <Event Name="SalesWareHouseOut" MainAction="WareHouseOut">
+      <DataField>
+        <Data Code="81901200091328525187" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328534955" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328586950" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328591061" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328600500" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328621722" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328636628" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328644892" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200091328652760" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200092623298570" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200092623308588" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200092623314861" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200092623324841" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200092623333348" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81901200092623343992" CorpOrderID="80722526" ToCorpID="108063" Actor="CNBG" ActDate="2025-09-29" />
+      </DataField>
+    </Event>
+  </Events>
+</Document>
