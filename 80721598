@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SN="213231" License="1" Version="2.0.2">
+  <Events>
+    <Event Name="SalesWareHouseOut" MainAction="WareHouseOut">
+      <DataField>
+        <Data Code="81003180875819313981" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180875819325269" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180876364412123" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180876364421993" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180876364443085" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180876364456512" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180876388778326" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180883775210377" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180883775225392" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180883775238754" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180883775241861" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180883775257163" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+        <Data Code="81003180883775264063" CorpOrderID="80721598" ToCorpID="104789" Actor="CNBG" ActDate="2025-09-29" />
+      </DataField>
+    </Event>
+  </Events>
+</Document>
